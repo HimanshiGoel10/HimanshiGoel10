@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @HimanshiGoel
+- 🔭 A pre final-year engineering student
 - 👀 I’m interested in Problem Solving and Development...
 - 🌱 I’m currently learning MERN
 - 📫 Connect with me on LinkedIn : https://www.linkedin.com/in/himanshiigoel/
