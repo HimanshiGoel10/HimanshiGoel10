@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Himanshi Goel, a passionate programmer from Delhi.
+Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from Delhi.
 
 ## About Me
 - 💼 Currently a pre-final year undergrad at IGDTUW, Delhi.
