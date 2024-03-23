@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Himanshi Goel, a passionate programmer from De
 - Tools: Git and GitHub
 - Others:  Adaptability, Leadership, Time Management, Hardwork, Dedication, Organization.
 
-  
+---
 Feel free to explore my repositories and reach out to me! Let's connect and collaborate.
 
 <!---
