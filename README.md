@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm Himanshi Goel, a passionate programmer from De
 -  👀 I’m interested in Problem Solving and Development...
 - 🌱 I’m currently learning MERN stack.
 - 📫 Connect with me on LinkedIn : https://www.linkedin.com/in/himanshiigoel/
+- 📧 Email: himanshigoel248@gmail.com
 - 😄 Pronouns: She/Her
 
 ## Skills
