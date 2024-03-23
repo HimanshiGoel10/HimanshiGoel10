@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Himanshi Goel, a passionate programmer from De
 - Others:  Adaptability, Leadership, Time Management, Hardwork, Dedication, Organization.
 
 ---
-Feel free to explore my repositories and reach out to me! Let's connect and collaborate.
+##### Feel free to explore my repositories and reach out to me! Let's connect and collaborate.
 
 <!---
 HimanshiGoel10/HimanshiGoel10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
