@@ -7,13 +7,13 @@ Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from D
 -  👀 I’m interested in Problem Solving and Development...
 - 🌱 I’m currently learning MERN stack.
 - 📫 Connect with me on LinkedIn : https://www.linkedin.com/in/himanshiigoel/
-- 📧 Email: himanshigoel248@gmail.com
-- 😄 Pronouns: She/Her
+- 📧 Email : himanshigoel248@gmail.com
+- 😄 Pronouns : She/Her
 
 ## Skills
-- Languages: C++, C, JavaScript, HTML,
-- Tools: Git and GitHub
-- Others:  Adaptability, Leadership, Time Management, Hardwork, Dedication, Organization.
+- Languages : C++, C, JavaScript, HTML,
+- Tools : Git and GitHub
+- Others :  Adaptability, Leadership, Time Management, Hardwork, Dedication, Organization.
 
 ---
 ### Feel free to explore my repositories and reach out to me ! Let's connect and collaborate.
