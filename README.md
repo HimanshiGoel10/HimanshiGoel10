@@ -31,7 +31,7 @@ Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from D
 
 
 ## Contribution Graph :
-![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=HimanshiGoel10)
+![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=HimanshiGoel10&theme=radical&fire=DD2727&ring=true&currStreakNum=true&sideNums=true&hide_border=true&dates=true)
 
 ## Skills
 - Languages : C++, C, JavaScript, HTML,
