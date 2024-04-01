@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
 # Hi there ! 👋
 
-Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from Delhi, India.
+"Welcome to my GitHub profile! I'm Himanshi Goel, a dedicated coder hailing from Delhi, India. Let's delve into my coding journey together."
 
 ## About Me
 - 💼 Currently a pre-final year undergrad at IGDTUW, Delhi.
@@ -37,6 +35,10 @@ Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from D
 ## Dynamic Stats
 
   ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshiGoel10&theme=radical&hide_rank=true&hide_title=true&hide_border=true&line_height=25&text_color=FF69B4&bg_color=30,e96443,904e95)
+
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=HimanshiGoel10)
 
 
 ---
