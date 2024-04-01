@@ -6,8 +6,8 @@
 - 💼 Currently a pre-final year undergrad at IGDTUW, Delhi.
 -  👀 I’m interested in Problem Solving and Development...
 - 🌱 I’m currently learning MERN stack.
-- 📫 Connect with me on LinkedIn : https://www.linkedin.com/in/himanshiigoel/
-- 📧 Email : himanshigoel248@gmail.com
+- 📫 Connect with me on LinkedIn : [Himanshi Goel](https://www.linkedin.com/in/himanshiigoel/)
+- 📧 Email : [himanshigoel248@gmail.com](mailto:himanshigoel248@gmail.com)
 - 😄 Pronouns : She/Her
 
 ## Tech Stack
