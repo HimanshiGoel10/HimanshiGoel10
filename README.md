@@ -20,14 +20,13 @@
  ![Git](https://img.icons8.com/color/48/000000/git.png) 
  ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) 
  ![Git Bash](https://img.icons8.com/windows/32/000000/git.png)
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="60"/>&nbsp;
  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
  ![Express.js](https://img.icons8.com/color/48/000000/express.png)
  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
 ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) 
-![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png)
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="60"/>&nbsp;
 
 
 ## Contribution Graph
