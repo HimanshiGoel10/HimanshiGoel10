@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning MERN stack.
 - 📫 Committed to continuous learning and exploring new technologies.
 - 🚀 Dedicated to leveraging technology for positive impact and innovation.
+- 🌟 I always believe in doing good and following the path of kindness and values.
 - 😄 Pronouns : She/Her
 
 ## Tech Stack
