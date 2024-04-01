@@ -6,8 +6,8 @@
 - 💼 Currently a pre-final year undergrad at IGDTUW, Delhi.
 -  👀 I’m interested in Problem Solving and Development...
 - 🌱 I’m currently learning MERN stack.
-- 📫 Connect with me on LinkedIn : [Himanshi Goel](https://www.linkedin.com/in/himanshiigoel/)
-- 📧 Email : [himanshigoel248@gmail.com](mailto:himanshigoel248@gmail.com)
+- 📫 Committed to continuous learning and exploring new technologies.
+- 🚀 Dedicated to leveraging technology for positive impact and innovation.
 - 😄 Pronouns : She/Her
 
 ## Tech Stack
@@ -31,6 +31,10 @@
 
 ## Contribution Graph
 ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=HimanshiGoel10&theme=radical&fire=DD2727&ring=true&currStreakNum=true&sideNums=true&hide_border=true&dates=true)
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshiigoel)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshigoel248@gmail.com)
 
 ## Dynamic Stats
 
