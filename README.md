@@ -20,6 +20,7 @@ Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from D
  ![React](https://img.icons8.com/color/48/000000/react-native.png) 
  ![Git](https://img.icons8.com/color/48/000000/git.png) 
  ![GitHub](https://img.icons8.com/fluent/48/000000/github.png) 
+ ![Git Bash](https://img.icons8.com/windows/32/000000/git.png)
  ![Bootstrap](https://img.icons8.com/color/32/000000/bootstrap.png)
  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
  ![Express.js](https://img.icons8.com/color/48/000000/express.png)
@@ -27,11 +28,10 @@ Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from D
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
 ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) 
-![Git Bash](https://img.icons8.com/windows/32/000000/git.png)
 ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png)
 
 
-## Contribution Graph :
+## Contribution Graph
 ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=HimanshiGoel10&theme=radical&fire=DD2727&ring=true&currStreakNum=true&sideNums=true&hide_border=true&dates=true)
 
 ## Dynamic Stats
