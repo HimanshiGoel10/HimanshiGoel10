@@ -48,7 +48,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HimanshiGoel10)
 
 
----
 <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="200" class="center">
 </p>
