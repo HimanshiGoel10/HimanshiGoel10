@@ -1,5 +1,6 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600" class="center">
-
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600" >
+</p>
 
 # Hi there ! 👋
 
@@ -48,7 +49,9 @@
 
 
 ---
+<p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="200" class="center">
+</p>
 
 ### Feel free to explore my repositories and reach out to me ! Let's connect and collaborate. 🚀
 
