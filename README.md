@@ -28,6 +28,7 @@ Welcome to my GitHub profile ! I'm Himanshi Goel, a passionate programmer from D
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
 ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) 
 ![Git Bash](https://img.icons8.com/windows/32/000000/git.png)
+![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png)
 
 
 ## Contribution Graph :
