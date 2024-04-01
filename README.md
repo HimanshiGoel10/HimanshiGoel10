@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600" class="center">
+
+
 # Hi there ! 👋
 
 "Welcome to my GitHub profile! I'm Himanshi Goel, a dedicated coder hailing from Delhi, India. Let's delve into my coding journey together."
@@ -40,13 +43,14 @@
 
   ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshiGoel10&theme=radical&hide_rank=true&hide_title=true&hide_border=true&line_height=25&text_color=FF69B4&bg_color=30,e96443,904e95)
 
-
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=HimanshiGoel10)
 
 
 ---
-### Feel free to explore my repositories and reach out to me ! Let's connect and collaborate.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="200" class="center">
+
+### Feel free to explore my repositories and reach out to me ! Let's connect and collaborate. 🚀
 
 <!---
 HimanshiGoel10/HimanshiGoel10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
