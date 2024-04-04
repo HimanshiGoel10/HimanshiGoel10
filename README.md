@@ -31,7 +31,7 @@
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
 ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="60"/>&nbsp;
-
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## Contribution Graph
 ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=HimanshiGoel10&theme=radical&fire=DD2727&ring=true&currStreakNum=true&sideNums=true&hide_border=true&dates=true)
