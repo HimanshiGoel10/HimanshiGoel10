@@ -44,29 +44,25 @@
 
   ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshiGoel10&theme=radical&hide_rank=true&hide_title=true&hide_border=true&line_height=25&text_color=FF69B4&bg_color=30,e96443,904e95)
 
-<!--
+## LeetCode Badges
+
+<img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
+
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/SQLI.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif" width="40px"></img>
--->
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
 
 
 ## Profile Views
