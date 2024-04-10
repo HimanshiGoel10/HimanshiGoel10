@@ -8,6 +8,7 @@
 
 ## About Me
 - 💼 Currently a pre-final year undergrad at IGDTUW, Delhi.
+- :100: Coding is my passion.
 -  👀 I’m interested in Problem Solving and Development...
 - 🌱 I’m currently learning MERN stack.
 - 📫 Committed to continuous learning and exploring new technologies.
