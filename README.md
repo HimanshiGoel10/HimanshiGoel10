@@ -44,6 +44,10 @@
 
   ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshiGoel10&theme=radical&hide_rank=true&hide_title=true&hide_border=true&line_height=25&text_color=FF69B4&bg_color=30,e96443,904e95)
 
+## Most Used Language
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshiGoel10&layout=compact)](https://github.com/HimanshiGoel10)
+
 ## LeetCode Badges
 
 <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
