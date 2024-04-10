@@ -58,6 +58,7 @@
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="40px"></img>
 <img src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" width="40px"></img>
