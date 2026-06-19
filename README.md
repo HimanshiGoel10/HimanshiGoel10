@@ -9,7 +9,6 @@
 ## About Me
 - 💼 Currently a Software Developer - 1.
 - :100: Coding is my passion.
--  👀 I’m interested in Problem Solving and Development...
 - 📫 Committed to continuous learning and exploring new technologies.
 - 🚀 Dedicated to leveraging technology for positive impact and innovation.
 - 🌟 I always believe in doing good and following the path of kindness and values.
