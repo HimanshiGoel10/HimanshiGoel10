@@ -7,10 +7,9 @@
 "Welcome to my GitHub profile! I'm Himanshi Goel, a dedicated coder hailing from Delhi, India. Let's delve into my coding journey together."
 
 ## About Me
-- 💼 Currently a final year undergrad at IGDTUW, Delhi.
+- 💼 Currently a Software Developer - 1.
 - :100: Coding is my passion.
 -  👀 I’m interested in Problem Solving and Development...
-- 🌱 I’m currently learning MERN stack.
 - 📫 Committed to continuous learning and exploring new technologies.
 - 🚀 Dedicated to leveraging technology for positive impact and innovation.
 - 🌟 I always believe in doing good and following the path of kindness and values.
