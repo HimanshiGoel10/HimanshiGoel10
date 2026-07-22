@@ -7,10 +7,10 @@
 "Welcome to my GitHub profile! I'm Himanshi Goel, a dedicated coder hailing from Delhi, India. Let's delve into my coding journey together."
 
 ## About Me
-- 💼 Currently a Software Developer - 1.
-- :100: Coding is my passion.
+- 💼 Software Engineer | Backend & Distributed Systems | C++ | Node.js | Kafka | AWS
+- :100: Software Engineer with experience building backend systems and microservices.
 - 📫 Committed to continuous learning and exploring new technologies.
-- 🚀 Dedicated to leveraging technology for positive impact and innovation.
+- 🚀 Strong foundation in C++, Node.js, Kafka, Redis, MongoDB, and AWS.
 - 🌟 I always believe in doing good and following the path of kindness and good values.
 
 ## Tech Stack
