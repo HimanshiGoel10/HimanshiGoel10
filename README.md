@@ -11,7 +11,7 @@
 - :100: Coding is my passion.
 - 📫 Committed to continuous learning and exploring new technologies.
 - 🚀 Dedicated to leveraging technology for positive impact and innovation.
-- 🌟 I always believe in doing good and following the path of kindness and values.
+- 🌟 I always believe in doing good and following the path of kindness and good values.
 
 ## Tech Stack
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
@@ -38,13 +38,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshiigoel)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshigoel248@gmail.com)
 
-## Dynamic Stats
-
-  ![Your Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshiGoel10&theme=radical&hide_rank=true&hide_title=true&hide_border=true&line_height=25&text_color=FF69B4&bg_color=30,e96443,904e95)
-
-## Most Used Language
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshiGoel10&layout=compact)](https://github.com/HimanshiGoel10)
 
 ## LeetCode Badges
 
